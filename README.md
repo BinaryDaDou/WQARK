@@ -1,7 +1,6 @@
 这是一个免费的内核工具,请自行对驱动进行签名。若发现bug或有其他建议请联系我
 
 支持1709系统-24H2系统
-正在发开中....
 
 ![image](https://github.com/user-attachments/assets/358228c7-320f-4e9f-ad36-b6a957384249)
 
