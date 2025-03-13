@@ -2,10 +2,26 @@
 
 支持1709系统-24H2系统
 
-![image](https://github.com/user-attachments/assets/358228c7-320f-4e9f-ad36-b6a957384249)
+![image](https://github.com/user-attachments/assets/561bc446-eba2-4d2e-bd06-cbbb800795d5)
+
+![image](https://github.com/user-attachments/assets/323a966d-b9ea-4dd0-9bd1-cc7407f79571)
+
+![image](https://github.com/user-attachments/assets/b4fbbdeb-f6c5-4f02-b58e-9a87decd765f)
+
+![image](https://github.com/user-attachments/assets/e73cf645-ca34-46ea-832d-500ef1e8e35f)
+
+![image](https://github.com/user-attachments/assets/2fc236b1-7561-4339-b2a9-9abb9501f45a)
+![image](https://github.com/user-attachments/assets/04bf2967-c3a7-4f92-9c44-4f1fd493d6fa)
+
+![image](https://github.com/user-attachments/assets/18762234-1427-4c57-b98d-10ec96f5e66a)
+
+![image](https://github.com/user-attachments/assets/94433b7d-6d8b-4e13-90e2-7ed91e1159c9)
 
 
-已支持修复功能:
+
+
+
+已支持功能:
 
 1.进程:
 遍历进程 遍历隐藏进程 挂起/恢复进程 结束进程 注入进程 进程校验
