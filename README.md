@@ -2,7 +2,8 @@
 
 支持1709系统-24H2系统
 
-![image](https://github.com/user-attachments/assets/561bc446-eba2-4d2e-bd06-cbbb800795d5)
+![image](https://github.com/user-attachments/assets/7269dfe4-16da-4b58-9e7c-392417eabe7b)
+
 
 ![image](https://github.com/user-attachments/assets/323a966d-b9ea-4dd0-9bd1-cc7407f79571)
 
