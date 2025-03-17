@@ -70,5 +70,5 @@ Nmi遍历  Nmi删除
 7.网络
 遍历WfpCallBack
 遍历WfpFilter
-遍历连接中的网络(BUG)
+遍历连接中的网络
 
